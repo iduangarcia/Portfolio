@@ -57,7 +57,7 @@ This project exemplifies my proficiency in data analysis and my ability to deriv
 
 ![members_percent](https://github.com/iduangarcia/Portfolio/assets/136936866/aa16bbcc-e313-483d-8c88-fb9008ad27c9)
 
-# Supply Reservations Report - March 2024
+# Supply Reservations Report - March 2024 [REPORTE_RESERVAS_MARZO.pdf](https://github.com/iduangarcia/Portfolio/files/14736652/REPORTE_RESERVAS_MARZO.pdf)
 
 
 This project involved generating a comprehensive report on supply reservations for the month of March 2024. Data was extracted from SAP ECC and imported into a CSV file in Google Sheets. Subsequently, various data transformations, cleaning processes, and analysis were conducted, leading to the creation of pivot tables to filter and organize the data. Finally, a dashboard was developed using Google Looker Studio to present the insights to the relevant stakeholders, including your boss.
@@ -107,7 +107,7 @@ The supply reservations report and dashboard provide valuable insights into supp
 This project demonstrates your proficiency in data analysis, visualization, and communication, as well as your ability to leverage technology tools to drive business outcomes effectively.
 
 
-[REPORTE_RESERVAS_MARZO.pdf](https://github.com/iduangarcia/Portfolio/files/14736652/REPORTE_RESERVAS_MARZO.pdf)
+
 
 
 
