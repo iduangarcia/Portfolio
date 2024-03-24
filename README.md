@@ -2,7 +2,7 @@
 
 # Exploratory Data Analysis (EDA) on Cyclistic Data
 
-
+https://github.com/iduangarcia/Portfolio/blob/main/Cyclist.ipynb
 
 In this project, I conducted Exploratory Data Analysis (EDA) on Cyclistic's bike-sharing data from 2023 using Python. The aim was to derive actionable insights to inform marketing strategies aimed at increasing member subscriptions on weekdays.
 
