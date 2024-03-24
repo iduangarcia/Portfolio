@@ -12,20 +12,30 @@ Data Collection and Preprocessing: Gathered raw data from Cyclistic's database a
 
 Exploratory Data Analysis (EDA):
 
-Analyzed ridership patterns: Investigated the distribution of rides over weekdays and weekends.
+Analyzed ridership patterns: 
+
+Investigated the distribution of rides over weekdays and weekends.
+
 Member vs. Casual Riders: Explored the proportion of member vs. casual riders and their usage behavior.
+
 Peak Usage Times: Identified peak hours and days of bike usage to target marketing efforts effectively.
+
 Trip Duration Analysis: Examined the distribution of trip durations and identified potential areas for service improvement.
+
 Geographic Analysis: Mapped out popular biking routes and stations to understand user preferences geographically.
+
+
 Insights Generation:
 
 Identified weekdays with low member subscription rates and compared them to high-subscription days.
 Investigated factors contributing to the disparity, such as promotional offers, weather conditions, or user demographics.
 Proposed targeted marketing strategies to increase member subscriptions on weekdays, such as offering weekday-specific discounts, launching promotional campaigns, or enhancing user experience during those days.
+
 Visualization and Reporting:
 
 Created informative visualizations using Python libraries like Matplotlib and Seaborn to communicate key findings effectively.
 Prepared a comprehensive report summarizing the EDA findings, insights generated, and recommendations for action.
+
 Key Skills Utilized:
 
 Data Collection and Cleaning
@@ -33,6 +43,7 @@ Exploratory Data Analysis (EDA)
 Python Programming (Pandas, NumPy)
 Data Visualization (Matplotlib, Seaborn)
 Statistical Analysis
+
 Impact:
 
 The insights derived from this EDA can guide Cyclistic in formulating targeted marketing strategies to increase member subscriptions on weekdays, thereby enhancing overall business performance and revenue.
