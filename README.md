@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-# Project Title: Exploratory Data Analysis (EDA) on Cyclistic Data
+# Exploratory Data Analysis (EDA) on Cyclistic Data
 
 Overview:
 
